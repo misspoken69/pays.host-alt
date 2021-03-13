@@ -10,4 +10,5 @@ Create an image host for Discord with custom domains, with a python self-bot!
 - Put a title of your embed, footer, and link.
 - Run the project and go to Discord and do your prefix and embed together.
 
-```Example: +embed <link>
+```
+Example: +embed <link>
